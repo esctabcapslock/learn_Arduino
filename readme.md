@@ -5,8 +5,8 @@
 ## 뻘짓이 느껴지는 코드
 
 - 아두이노 인터럽트를 이용해 주파수 발생 함수 직접 만들기
-    - [ex02\add03\main.ino](ex02\add03\main.ino)
+    - [ex02/add03/main.ino](ex02/add03/main.ino)
 
 - 래스트 기반의 간단한 해시 테이블 만들기
     - cpp class 문법 복습하기
-    - [ex05\add0c\main.ino](ex05\add0c\main.ino)
+    - [ex05/add0c/main.ino](ex05/add0c/main.ino)
