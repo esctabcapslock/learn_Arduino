@@ -1,2 +1,5 @@
 build
 c_cpp_properties.json
+ex05/a
+*.o
+*.exe
